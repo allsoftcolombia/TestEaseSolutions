@@ -1,0 +1,20 @@
+C:\Users\Alexander Mendoza\source\repos\WFTestEaseSolutions\WFTestEaseSolutions\obj\Debug\WFTestEaseSolutions.csprojAssemblyReference.cache
+C:\Users\Alexander Mendoza\source\repos\WFTestEaseSolutions\WFTestEaseSolutions\obj\Debug\WFTestEaseSolutions.Form1.resources
+C:\Users\Alexander Mendoza\source\repos\WFTestEaseSolutions\WFTestEaseSolutions\obj\Debug\WFTestEaseSolutions.Properties.Resources.resources
+C:\Users\Alexander Mendoza\source\repos\WFTestEaseSolutions\WFTestEaseSolutions\obj\Debug\WFTestEaseSolutions.csproj.GenerateResource.cache
+C:\Users\Alexander Mendoza\source\repos\WFTestEaseSolutions\WFTestEaseSolutions\obj\Debug\WFTestEaseSolutions.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Mendoza\source\repos\WFTestEaseSolutions\WFTestEaseSolutions\bin\Debug\WFTestEaseSolutions.exe.config
+C:\Users\Alexander Mendoza\source\repos\WFTestEaseSolutions\WFTestEaseSolutions\bin\Debug\WFTestEaseSolutions.exe
+C:\Users\Alexander Mendoza\source\repos\WFTestEaseSolutions\WFTestEaseSolutions\bin\Debug\WFTestEaseSolutions.pdb
+C:\Users\Alexander Mendoza\source\repos\WFTestEaseSolutions\WFTestEaseSolutions\obj\Debug\WFTestEaseSolutions.exe
+C:\Users\Alexander Mendoza\source\repos\WFTestEaseSolutions\WFTestEaseSolutions\obj\Debug\WFTestEaseSolutions.pdb
+C:\Borrar\TestEaseSolutions\WFTestEaseSolutions\bin\Debug\WFTestEaseSolutions.exe.config
+C:\Borrar\TestEaseSolutions\WFTestEaseSolutions\bin\Debug\WFTestEaseSolutions.exe
+C:\Borrar\TestEaseSolutions\WFTestEaseSolutions\bin\Debug\WFTestEaseSolutions.pdb
+C:\Borrar\TestEaseSolutions\WFTestEaseSolutions\obj\Debug\WFTestEaseSolutions.csprojAssemblyReference.cache
+C:\Borrar\TestEaseSolutions\WFTestEaseSolutions\obj\Debug\WFTestEaseSolutions.Form1.resources
+C:\Borrar\TestEaseSolutions\WFTestEaseSolutions\obj\Debug\WFTestEaseSolutions.Properties.Resources.resources
+C:\Borrar\TestEaseSolutions\WFTestEaseSolutions\obj\Debug\WFTestEaseSolutions.csproj.GenerateResource.cache
+C:\Borrar\TestEaseSolutions\WFTestEaseSolutions\obj\Debug\WFTestEaseSolutions.csproj.CoreCompileInputs.cache
+C:\Borrar\TestEaseSolutions\WFTestEaseSolutions\obj\Debug\WFTestEaseSolutions.exe
+C:\Borrar\TestEaseSolutions\WFTestEaseSolutions\obj\Debug\WFTestEaseSolutions.pdb

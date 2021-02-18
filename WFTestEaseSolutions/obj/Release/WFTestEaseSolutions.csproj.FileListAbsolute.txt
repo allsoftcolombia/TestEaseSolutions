@@ -1,0 +1,10 @@
+C:\Users\Alexander Mendoza\source\repos\WFTestEaseSolutions\WFTestEaseSolutions\bin\Release\WFTestEaseSolutions.exe.config
+C:\Users\Alexander Mendoza\source\repos\WFTestEaseSolutions\WFTestEaseSolutions\bin\Release\WFTestEaseSolutions.exe
+C:\Users\Alexander Mendoza\source\repos\WFTestEaseSolutions\WFTestEaseSolutions\bin\Release\WFTestEaseSolutions.pdb
+C:\Users\Alexander Mendoza\source\repos\WFTestEaseSolutions\WFTestEaseSolutions\obj\Release\WFTestEaseSolutions.csprojAssemblyReference.cache
+C:\Users\Alexander Mendoza\source\repos\WFTestEaseSolutions\WFTestEaseSolutions\obj\Release\WFTestEaseSolutions.Form1.resources
+C:\Users\Alexander Mendoza\source\repos\WFTestEaseSolutions\WFTestEaseSolutions\obj\Release\WFTestEaseSolutions.Properties.Resources.resources
+C:\Users\Alexander Mendoza\source\repos\WFTestEaseSolutions\WFTestEaseSolutions\obj\Release\WFTestEaseSolutions.csproj.GenerateResource.cache
+C:\Users\Alexander Mendoza\source\repos\WFTestEaseSolutions\WFTestEaseSolutions\obj\Release\WFTestEaseSolutions.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Mendoza\source\repos\WFTestEaseSolutions\WFTestEaseSolutions\obj\Release\WFTestEaseSolutions.exe
+C:\Users\Alexander Mendoza\source\repos\WFTestEaseSolutions\WFTestEaseSolutions\obj\Release\WFTestEaseSolutions.pdb
