@@ -1,7 +1,8 @@
-#Final version Technical Test Ease Solutions.
+# Final version Technical Test Ease Solutions.
 
+This is the final code version to solve the skirsesort.kitzbuehel problem.
+Also includes the user manual.
 
-This is the final code version to solve the skirsesort.kitzbuehel problem
 Thanks. 
 _____________________
 Alexander Mendoza.
